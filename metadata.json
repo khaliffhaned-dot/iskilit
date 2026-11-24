@@ -1,0 +1,11 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "Escalate: Narrative Intelligence",
+  "description": "Enterprise-grade social listening, media monitoring, and strategic narrative intelligence command center optimized for Malaysia's dynamic media landscape.",
+  "prompt": "",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
